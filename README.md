@@ -1,2 +1,2 @@
 # Pacman
-Pacman game project with an added tutorial level.
+Pacman game project with an added tutorial level and in-game achievements .
